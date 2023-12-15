@@ -1,0 +1,10 @@
+#wordContainer {
+    letter-spacing: 5px;
+}
+
+#letterContainer {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
